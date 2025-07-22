@@ -60,7 +60,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sneha847/" target="_blank">
+  <a href="[https://www.linkedin.com/in/sneha847/](https://www.linkedin.com/in/sneha-mahamuni-823bb825b)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://snehamahamuni.netlify.app" target="_blank">
@@ -69,6 +69,10 @@
   <a href="mailto:mahamunisneha40@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="[https://leetcode.com/snehamahamuni/](https://leetcode.com/u/sneha_213/)" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 </p>
 
 ---
