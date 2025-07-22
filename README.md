@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehamahamuni&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehamahamuni&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sneha847&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha847&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -60,13 +60,13 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/snehamahamuni/" target="_blank">
+  <a href="https://www.linkedin.com/in/sneha847/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://snehamahamuni.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:yourname@gmail.com" target="_blank">
+  <a href="mailto:mahamunisneha40@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehamahamuni&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sneha847&theme=monokai" />
 </p>
 
 <p align="center"><b>“Code. Learn. Build. Repeat.”</b></p>
