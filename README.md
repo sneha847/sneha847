@@ -51,9 +51,7 @@
 > Clean, responsive frontend with calculators for yield, soil, irrigation, etc.  
 > `HTML`, `CSS`, `JavaScript`, `UI/UX`
 
-#### 🔹 [Blackjack AI Game in C++](#)
-> Game logic with Q-Learning, Monte Carlo & GUI using C++  
-> `C++`, `OOP`, `Reinforcement Learning`, `DSA`, `SQL`
+
 
 ---
 
